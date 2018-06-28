@@ -1,0 +1,5 @@
+Download LUFA-100807
+create a subdir usbCockpitFirmware under LUFA-100807/Projects
+create symlink to all files from this directory
+cd LUFA-100807/Projects
+make
